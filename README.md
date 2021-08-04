@@ -19,4 +19,4 @@ Limitations:
 2. Script must be run on a single screen of resolution 1920 x 1080p.
 
 
-Highest score achieved using script: 478
+**Highest score achieved using script: 478**
